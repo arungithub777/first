@@ -1,0 +1,2 @@
+This is the first project which displays the entered name, the addition with predefined numbers that are 4,3
+and it shows 10 kilometers to miles
